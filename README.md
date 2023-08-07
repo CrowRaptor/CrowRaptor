@@ -1,4 +1,5 @@
 ### Hi Hi
+Here for computer science!
 ## Who
 Secondary school student and aspiring physicist
 ## Languages
